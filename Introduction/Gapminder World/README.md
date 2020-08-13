@@ -32,4 +32,10 @@ https://www.gapminder.org/data/
 
 **C) What Questions To Ask?**
 
->1. How
+>1. How have income, fixed, phone and broadband changed over time?
+
+>2. What is the shape of the distribution for the latest year for which data is available?
+
+>3. How does the shape of the distribution differ across geographical regions for 2018?
+
+>4. What relationship, if any, is there between income, fixed, phone and broadband?
