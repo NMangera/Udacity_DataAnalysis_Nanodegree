@@ -6,7 +6,7 @@
 This project focused on wrangling data from the WeRateDogs Twitter account. WeRateDogs has over 4 million followers and has received international media coverage. 
 The archive contains basic tweet data (tweet ID, timestamp, text, etc.) for all 5000+ of their tweets as they stood on August 1, 2017. The data is enhanced with a second dataset with predictions of dog breeds for each of the Tweets. Finally, the Twitter API to used to glean further basic information from the Tweet such as favourites and retweets. 
 
-## Project Details
+**Project Details**
 Fully assessing and cleaning the entire dataset would require exceptional effort so only a subset of its issues (eight quality issues and two tidiness issues) are considered.
 
 The tasks for this project are:
@@ -17,7 +17,7 @@ Data wrangling, consists of:
 3. Cleaning data
 4. Storing, analyzing, and visualizing wrangled data
 
-Key Points
+**Key Points**
 
 -Only want original ratings that have images. 
 -Though there are 5000+ tweets in the dataset, not all are dog ratings and some are retweets.
