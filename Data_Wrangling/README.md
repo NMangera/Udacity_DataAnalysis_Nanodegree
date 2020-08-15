@@ -9,7 +9,9 @@ The archive contains basic tweet data (tweet ID, timestamp, text, etc.) for all 
 **Project Details**
 Fully assessing and cleaning the entire dataset would require exceptional effort so only a subset of its issues (eight quality issues and two tidiness issues) are considered.
 
+
 The tasks for this project are:
+
 
 Data wrangling, consists of:
 1. Gathering data
@@ -20,7 +22,9 @@ Data wrangling, consists of:
 **Key Points**
 
 -Only want original ratings that have images. 
+
 -Though there are 5000+ tweets in the dataset, not all are dog ratings and some are retweets.
+
 -The fact that the rating numerators are greater than the denominators does not need to be cleaned. This unique rating system is a big part of the popularity of WeRateDogs.
 
 **A) Outline of Steps** 
