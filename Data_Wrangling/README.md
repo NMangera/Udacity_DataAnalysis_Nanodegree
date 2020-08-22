@@ -34,15 +34,15 @@ Data wrangling, consists of:
 
 **D. Outline of Steps** 
 
->1. Decide what questions to pose
+1. Decide what questions to pose
 
->2. Extract the data  
+2. Extract the data  
 
->3. Import data into environment  
+3. Import data into environment  
 
->4. Create visualisations to aid and augment exploration 
+4. Create visualisations to aid and augment exploration 
 
->5. Draw conclusions
+5. Draw conclusions
 
 
 **D. Key findings** 
