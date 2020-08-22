@@ -42,3 +42,18 @@ The task is to extract data pertaining to global and city temperatures and to su
 >5. Is the world getting hotter or cooler?
 
 >6. Has the trend been consistent over the last few hundred years?
+
+
+The first chapter was an introduction to the following projects of the Data Analyst Nanodegree.
+
+First chapter project was about weather trends - it required to apply (atleast) the following steps:
+
+Extract data from a database using a SQL query
+Calculate a moving average
+Create a line chart
+I analyzed local and global temperature data and compared the temperature trends in three german cities to overall global temperature trends. After cleaning the data, I've created a function, which was supposed to handle all the tasks that are needed to plot the data - for example calculating the linear trend and calculating the rolling average. In addition, the function had other various options for the visualization to get various graphs.
+
+Key findings:
+
+the average global temperature is increasing, with an also increasing tempo
+London is the only city in UK in this dataset which has a higher average temperature than the global average
