@@ -7,7 +7,7 @@ This repository contains projects for Udacity's Data Analyst Nanodegree. Languag
 3. Data Visualisation
 
 
-## Prerequisites Downloads
+## Prerequisite Downloads
 
 You'll need to install:
 
@@ -19,7 +19,7 @@ You'll need to install:
 2. Pandas
 3. Matplotlib
 4. Seaborn
-5. additional libraries defined in each project.
+5. additional libraries defined in each project
 
 ## Recommended:
 1. Anaconda
@@ -28,4 +28,4 @@ You'll need to install:
 
 ## License
 
-This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
+This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License
