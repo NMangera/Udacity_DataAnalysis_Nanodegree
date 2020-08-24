@@ -7,28 +7,22 @@ Data Cleaning and Wrangling
 Data Visualisation
 
 
-## Prerequisites
+## Prerequisites Downloads
 
 You'll need to install:
 
 Python (3.x or higher)
 Jupyter Notebook
 
+## Python Packages
 Numpy
 Pandas
 Matplotlib
 Seaborn
 additional libraries defined in each project.
 
-Recommended:
+## Recommended:
 Anaconda
-
-
-
-
-
-
-
 
 
 
