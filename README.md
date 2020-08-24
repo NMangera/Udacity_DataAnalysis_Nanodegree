@@ -2,27 +2,27 @@
 
 This repository contains projects for Udacity's Data Analyst Nanodegree. Language of instruction was primarily in Python and R. The degree taught via theory and real life examples the following:
 
-Descriptive and Inferential Statistics
-Data Cleaning and Wrangling
-Data Visualisation
+1. Descriptive and Inferential Statistics
+2. Data Cleaning and Wrangling
+3. Data Visualisation
 
 
 ## Prerequisites Downloads
 
 You'll need to install:
 
-Python (3.x or higher)
-Jupyter Notebook
+1. Python (3.x or higher)
+2. Jupyter Notebook
 
 ## Python Packages
-Numpy
-Pandas
-Matplotlib
-Seaborn
-additional libraries defined in each project.
+1. Numpy
+2. Pandas
+3. Matplotlib
+4. Seaborn
+5. additional libraries defined in each project.
 
 ## Recommended:
-Anaconda
+1. Anaconda
 
 
 
