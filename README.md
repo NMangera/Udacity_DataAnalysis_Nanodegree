@@ -19,7 +19,8 @@ You'll need to install:
 2. Pandas
 3. Matplotlib
 4. Seaborn
-5. additional libraries defined in each project
+
+additional libraries are defined in each project
 
 ## Recommended:
 1. Anaconda
