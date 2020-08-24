@@ -1,5 +1,8 @@
 # Udacity_DataAnalysis_Nanodegree
 
+This repository contains projects for Udacity's Data Analyst Nanodegree.
+
+
 ## Prerequisites
 
 You'll need to install:
