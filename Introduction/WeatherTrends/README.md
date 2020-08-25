@@ -1,6 +1,6 @@
 #  Explore Weather Trends
 
-The first chapter project is a gentle introduction to the Data Analyst Nanodegree. Successful completion requires the application of the following steps:
+The first project is a gentle introduction to the Data Analyst Nanodegree. Successful completion requires the application of the following steps:
 
 1) Data extraction from a database using a SQL query
 2) Calculation of a moving average
@@ -9,7 +9,7 @@ The first chapter project is a gentle introduction to the Data Analyst Nanodegre
 
 **A. Determine Objectives**
  
-The task is to extract data pertaining to global and city temperatures and to subsequently analyse the data to draw conclusions.
+The task is to extract data pertaining to global and city temperatures, and to subsequently analyse this data to draw conclusions.
 
 **B. Outline of Steps** 
 
