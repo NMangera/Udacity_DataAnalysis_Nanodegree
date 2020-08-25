@@ -1,6 +1,6 @@
 # Udacity_DataAnalysis_Nanodegree
 
-This repository contains projects for Udacity's Data Analyst Nanodegree. Language of instruction was primarily in Python. The nanodegree covered theory, followed by real life projects in the following areas:
+This is a repository of projects developed as part of Udacity's Data Analyst Nanodegree programme. The language of instruction is primarily Python, although SQL is also used to extract data from relational databases. The nanodegree covers the following areas:
 
 1. Descriptive and Inferential Statistics
 2. Data Cleaning and Wrangling
@@ -15,16 +15,17 @@ You'll need to install:
 2. Jupyter Notebook
 
 ## Python Packages
+
 1. Numpy
 2. Pandas
 3. Matplotlib
 4. Seaborn
 
-additional libraries are defined in each project
+additional libraries are defined within each project
 
 ## Recommended:
-1. Anaconda
 
+1. Anaconda
 
 
 ## License
