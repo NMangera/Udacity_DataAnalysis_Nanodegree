@@ -1,4 +1,7 @@
-# Udacity-Data-Analysis-Wine-Case-Study
+# Wine Quality Case Study
+
+
+
 
  **A. Determine Objectives**
  
@@ -50,5 +53,11 @@ https://archive.ics.uci.edu/ml/datasets/Wine+Quality
 13. Do sweeter wines (more residual sugar) receive better ratings What level of acidity receives the highest average rating?
 
 **D. Key Findings**
+1. Income has grown steadily since across the world since the turn of the century
+2. Fixed line connections as a mode of communucation has declined across the world since the turn of the century
+3. After explosive growth early in the century, phone line connections have begun to show signs of saturation
+4. Broadband connections contiunue to grow as a mode of communcation across the globe
+5. Europe is a leader among the continents across all of the variables measured
+6. Africa is the only continent to display a decling trend in the number of broadband connections
 
 
