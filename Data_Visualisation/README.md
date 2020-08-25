@@ -27,3 +27,9 @@ The tasks for this project are:
 
 
 **D. Key findings**
+
+Considered individually, the majority of the numerical features investigated are weakly correlated with borrower APR. That being said, the categorical features Credit Grade & Prosper Score did appear to correlate with borrower APR, with higher ranked categories suggestive of a lower rate of interest. Given Credit Grade & Prosper Score are a composite (index) of the other variables, and are used to determine borrower APR, the result appears plausible.
+
+The length of a loan (Term) also affects borrower APR, with shorter loans exhibiting lower interest rates.
+
+Surprisingly, the variable DebtToIncomeRatio has a low correlation with borrower APR. The feature also contains outliers, which when exploring was truncated to gain an understanding of the bulk of distribution, and on closer inspection, appears to be a normal distribution with a slight skew.
