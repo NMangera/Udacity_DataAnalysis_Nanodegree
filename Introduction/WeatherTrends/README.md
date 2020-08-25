@@ -41,7 +41,7 @@ The task is to extract data pertaining to global and city temperatures, and to s
 6. Has the trend been consistent over the last few hundred years?
 
 
-**D. Key findings**
+**D. Key Findings**
 
 1. The average global temperature is increasing, at an increasing rate
 2. London has a higher average temperature than the global average
