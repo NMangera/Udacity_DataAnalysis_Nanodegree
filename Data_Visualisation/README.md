@@ -1,13 +1,11 @@
 # Communicate Data Findings
 
-The final chapter was focused on proper visualization of data. We learned about chart junk, uni-, bi- and multivariate visualization, use of color, data/ink ratio, the lie
-factor, other encodings, [...].
-
-The task of the final project was to analyze and visualize real-world data. I chose the Prosper Loan dataset.
+The final chapter focuses on visualization of data. Topics covered include chart junk, uni-, bi- and multivariate visualization, use of color, data/ink ratio, the lie
+factor, other encodings, and more.
 
  **A. Determine Objectives**
 
-The task is to utilise data pertaining to loans made on the p2p lender platform Prosper to determine rate of interest.
+The task is to analyse data pertaining to loans made on the p2p lender platform Prosper, using visualuisation to aid the exploration of interest rate determination.
 
 **B. Project Details**
 
