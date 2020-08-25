@@ -44,3 +44,5 @@ Data wrangling, consists of:
 
 
 **D. Key findings** 
+1. A rating between 10 and 12 can be considered "normal".
+2. Popular dogs garner vastly more attention than their less aesthetically-pleasing compatriots.
