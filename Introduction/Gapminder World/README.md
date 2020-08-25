@@ -1,6 +1,6 @@
 # Investigate a Dataset (Gapminder World Dataset)
 
-This chapter considered the data analysis process as whole from gathering data through to communicating results. This project therefore naturally included the steps outlined below.
+This chapter considers the data analysis process as whole from gathering data through to communicating results. This project therefore naturally includes the steps outlined below.
 
  **A. Determine Objectives**
  
