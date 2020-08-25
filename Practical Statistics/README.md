@@ -1,8 +1,8 @@
 # Analyze A/B Test Results
 
-The chapter on practical statistics covered fairly dense material on Notation, Correlation, Outliers, Bias, Probability, Bayes Theorem, Distributions, Central Limit Theorem, Bootstrapping, Confidence Intervals, Hypothesis Testing, A/B Tests, Linear Regression, Logistic Regression and more..
+The chapter on practical statistics covers fairly dense material on Notation, Correlation, Outliers, Bias, Probability, Bayes Theorem, Distributions, Central Limit Theorem, Bootstrapping, Confidence Intervals, Hypothesis Testing, A/B Tests, Linear Regression, Logistic Regression and more..
 
-To goal of the project in this chapter was to familiarise oneself with A/B testing. Firstly, we learned what A/B testing is - including different metrics like the Click Through Rate (CTR) and how to analyze metrics accurately. Secondly, we learned about limitations like the novelty effect and change aversion.
+To goal of the project is to familiarise oneself with A/B testing. 
 
  **A. Determine Objectives**
  
