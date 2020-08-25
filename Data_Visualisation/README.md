@@ -1,6 +1,6 @@
 # Communicate Data Findings
 
-The final project focuses on the visualization of data. Topics covered include chart junk, use of color, data/ink ratio, the lie factor, and other encodings.
+The final project focuses on the visualization of data. Topics include chart junk, use of color, data/ink ratio, the lie factor, and other encodings.
 
  **A. Determine Objectives**
 
