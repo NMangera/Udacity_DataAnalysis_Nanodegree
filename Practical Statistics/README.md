@@ -51,4 +51,8 @@ For this project, I will be working to understand the results of an A/B test run
 
 13. What is the interaction between the country in which a user resides and the page to which they were exposed?
 
-**D. Key Findings**
+**D. Key Finding**
+
+The goal for this project was to help a company understand the consequences of switching the landing page of its e-commerce web page. Utilising conversion rates among groups exposed to both the old landing page and the proposed new landing pageas a metric for "success", the results were analysed from multiple perspectives using probability, simulation and regression.
+
+Results from a pure propabilitic approach suggest the old landing page has a slightly higher conversion rate among users than the new landing page. Simulation of the theoretical difference in conversion rates between the two landing pages suggests the observed difference may even be due to chance (randomness). This was consistent with the findings of the third and final apporach adopted, regression.
