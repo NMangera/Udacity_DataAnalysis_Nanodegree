@@ -1,10 +1,10 @@
 # Investigate a Dataset (Gapminder World Dataset)
 
-This chapter considers the data analysis process as whole from gathering data through to communicating results. This project therefore naturally includes the steps outlined below.
+This chapter considers the data analysis process holistically, from gathering data through to communicating results. 
 
  **A. Determine Objectives**
  
-The task is to interrogate data from Gapminder World using the datasets from:
+The task is to interrogate data from Gapminder World using datasets from:
 https://www.gapminder.org/data/
 
 **B. Outline of Steps** 
@@ -32,5 +32,5 @@ https://www.gapminder.org/data/
 
 4. What relationship, if any, is there between income, fixed, phone and broadband?
 
-**D. Key findings**
+**D. Key Findings**
 
