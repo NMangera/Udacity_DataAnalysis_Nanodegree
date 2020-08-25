@@ -1,6 +1,6 @@
 #  Explore Weather Trends
 
-The first chapter project was a gentle introduction to the Data Analyst Nanodegree. Successful completion required the application of the following steps:
+The first chapter project is a gentle introduction to the Data Analyst Nanodegree. Successful completion requires the application of the following steps:
 
 1) Data extraction from a database using a SQL query
 2) Calculation of a moving average
@@ -43,5 +43,5 @@ The task is to extract data pertaining to global and city temperatures and to su
 
 **D. Key findings**
 
-1. The average global temperature is increasing, with an also increasing tempo
+1. The average global temperature is increasing, at an increasing rate
 2. London has a higher average temperature than the global average
