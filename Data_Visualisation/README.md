@@ -1,19 +1,12 @@
 # Communicate Data Findings
 
-The final chapter focuses on visualization of data. Topics covered include chart junk, uni-, bi- and multivariate visualization, use of color, data/ink ratio, the lie
-factor, other encodings, and more.
+The final project focuses on the visualization of data. Topics covered include chart junk, use of color, data/ink ratio, the lie factor, and other encodings.
 
  **A. Determine Objectives**
 
 The task is to analyse data pertaining to loans made on the p2p lender platform Prosper, using visualuisation to aid the exploration of interest rate determination.
 
-**B. Project Details**
-
-
-The tasks for this project are:
-
-
-**C. Outline of Steps** 
+**B.  Outline of Steps**
 
 1. Decide what questions to pose
 
@@ -25,6 +18,11 @@ The tasks for this project are:
 
 5. Draw conclusions
 
+**C. What Question(s) To Ask?** 
+
+The main research question is stated as:
+
+What affects a borrower’s APR or interest rate?
 
 **D. Key findings**
 
