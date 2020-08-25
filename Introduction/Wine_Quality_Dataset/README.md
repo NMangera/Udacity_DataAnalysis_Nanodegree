@@ -27,37 +27,41 @@ https://archive.ics.uci.edu/ml/datasets/Wine+Quality
 **C. What Questions To Ask?**
 
 1. How many samples of red wine are there?
+   Answer - 1559
 
 2. How many samples of white wine are there?
-
+   Answer - 4898
+   
 3. How many variables are in each dataset?
-
+   Answer - 12
+   
 4. Which features have missing values?
-
+   Answer - None
+   
 5. How many duplicate rows are in the white wine dataset?
+   Answer - 937
 
 6. Are duplicate rows in these datasets significant/need to be dropped?
-
+   Answer - Not necessarily
+   
 7. How many unique values of quality are in the red wine dataset?
-
+   Answer - 6
+   
 8. How many unique values of quality are in the white wine dataset?
-
+   Answer - 7
+   
 9. What is the mean density in the red wine dataset?
-
+   Answer - 0.996747
+   
 10. Is a certain type of wine (red or white) associated with higher quality?
-
+    Answer - White
+    
 11. What level of acidity (pH value) receives the highest average rating?
-
+    Answer - Low
+    
 12. Do wines with higher alcoholic content receive better ratings? 
-
+    Answer - Yes
+    
 13. Do sweeter wines (more residual sugar) receive better ratings What level of acidity receives the highest average rating?
-
-**D. Key Findings**
-1. Income has grown steadily since across the world since the turn of the century
-2. Fixed line connections as a mode of communucation has declined across the world since the turn of the century
-3. After explosive growth early in the century, phone line connections have begun to show signs of saturation
-4. Broadband connections contiunue to grow as a mode of communcation across the globe
-5. Europe is a leader among the continents across all of the variables measured
-6. Africa is the only continent to display a decling trend in the number of broadband connections
-
+    Answer - Yes
 
