@@ -1,9 +1,7 @@
 
 # Gather, Clean and Analyze Twitter Data (WeRateDogs™ (@dog_rates))
 
-This chapter was a deep dive into the data wrangling part of the data analysis process. We learned about the difference between messy and dirty data, how tidy data should look like, about the assessing, defining, cleaning and testing process, etc. Moreover, we talked about many different file types and different methods of gathering data.
-
-In this project we had to deal with the reality of dirty and messy data. We gathered data from different sources (for example the Twitter API), identified issues with the dataset in terms of tidiness and quality. Afterwards we had to solve these problems while documenting each step. The end of the project was then focused on the exploration of the data.
+This chapter is a deep dive into the data wrangling part of the data analysis process. Topics include the difference between messy and dirty data and what tidy data looks like.
 
  **A. Determine Objectives**
 
